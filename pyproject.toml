@@ -1,0 +1,4 @@
+[project]
+name = "this_moses"
+version = "0.1.0"
+description = "The Zen of Moses"
